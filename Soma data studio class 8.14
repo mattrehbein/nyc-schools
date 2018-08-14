@@ -1,0 +1,30 @@
+Soma data studio class 8.14
+
+
+framework = a really big library
+
+CRUD websites
+Create
+Read
+Update
+Delete
+
+Ruby on Rails
+Ruby is programming language
+Rails is the framework (like a really big library)
+
+Python - Django
+Flask is a server(??) that we use to talk to the database (?)
+
+ran from command line:
+python app.py
+after navigating to the folder in LEDE folder in command line (with "cd ", then drag into terminal window the folder and the path will pop in automatically)
+also if you start typing /LEDE/Algo.. or whatever and tab over should auto complete
+
+
+ORM = something like Object Relations Mapper
+basically used in lieu of SQL queries
+
+use
+SQLAlchemy
+there's also Peewee and ActiveRecord(for Ruby)
